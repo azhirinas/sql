@@ -6,7 +6,7 @@
 
 Ссылка на курс: https://netology.ru/programs/analyst-bi
 
-Подробнее о модуле по Power BI: https://netology.ru/programs/sql-lessons
+Подробнее о модуле по SQL: https://netology.ru/programs/sql-lessons
 
 ## Задачи по проекту:
 - подключиться к БД "Авиаперевозки" выбранным способом
